@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container {
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 16px;
+    background-color: orange;
+    color: white;
+    font-size: 32px;
+    padding: 8px;
+}
